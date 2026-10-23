@@ -1,10 +1,18 @@
-- 👋 Hi, I’m Serge
-- 👀 I’m interested in Embedded Systems Middleware
-- 🌱 I’m currently learning how to program a Renesas microcontroller.
-- 💞️ I’m looking to collaborate on some Project, that ask C/C++ skills
-- 📫 How to reach me : tassiarnold1@gmail.com
+### Hi, I'm Serge 👋
 
-<!---
-Letasso/Letasso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Embedded Software Engineer · C/C++ · Middleware & drivers**
+
+I build the software layer between hardware and application: drivers, HAL/middleware, and the glue that makes microcontrollers dependable.
+
+**Tech stack**
+- **Languages:** C, C++
+- **MCUs:** Renesas, STM32
+- **IDEs:** Keil µVision, IAR Embedded Workbench, VS Code
+- **Build & toolchain:** ARM GNU Toolchain, CMake, Make
+- **DevOps:** Git, Docker, Podman
+- **RTOS:** FreeRTOS, embOS
+- **Debug:** J-Link, ST-Link, logic analyzer
+
+**Open to** collaborating on embedded C/C++ projects, especially middleware, drivers, and RTOS-based systems.
+
+📫 Reach me at tassiarnold1@gmail.com <!-- or replace with a LinkedIn link to avoid spam -->
